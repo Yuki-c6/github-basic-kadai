@@ -42,6 +42,10 @@ chmod755は対象ファイルの権限を　所有者：全て　所有者グル
 ⑫(応用)Windows: gitのインストールパスをコマンドで表示してください。(ヒント: Linuxではwhich)
 →where
 
+⑬(応用)Windows&Linux: テキストファイルを表示するコマンドを実行してください。
+→Windows:typeコマンド　Linux:catコマンド
+
+
 
 
 
